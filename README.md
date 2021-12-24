@@ -1,6 +1,6 @@
 ## Hi, I am DaveWang-CN!👋
 
-### A full stack developer from China🇨🇳.
+### A developer from China🇨🇳.
 
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaveWang-CN&count_private=true&show_icons=true"/>
 
