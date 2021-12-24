@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I am DaveWang-CN!👋
 
-<!--
-**DaveWang-CN/DaveWang-CN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A full stack developer from China🇨🇳.
 
-Here are some ideas to get you started:
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaveWang-CN&count_private=true&show_icons=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveWang-CN&layout=compact"/>
+
+
+### 🛠 &nbsp;Tech Stack
+
+
+
+
