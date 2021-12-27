@@ -6,10 +6,3 @@
 
 
 <img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveWang-CN&layout=compact"/>
-
-
-### 🛠 &nbsp;Tech Stack
-
-
-
-
